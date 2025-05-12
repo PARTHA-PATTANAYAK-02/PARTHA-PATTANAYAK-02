@@ -1,4 +1,14 @@
+# 💫 Hi 👋, I'm Partha Pattanayak 
+Passionate about web development & tech innovation || Learning React & building cool things
 
+Email Me 👉 ✉️ **parthapattanayak2002@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Mern Stack Project
+- 🌱 **I’m currently learning:** Deepening my understanding of Data Structures & Algorithms
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** parthapattanayak2002@gmail.com
+- 😄 **Pronouns:** Partha 
+- ⚡ **Fun fact:** I Love Coding and Coding Love Me
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamparthapattanayak) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamparthapattanayak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/partha-pattanayak-082a46320) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/its_partha_02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthapattanayak2002@gmail.com) 
 
